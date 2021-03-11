@@ -21,25 +21,24 @@ Kiddy-Up repository can be acccessed at [GitHub][1].
 
 <h2>Glossery</h2>
 1. Getting Started
-	1. [Application Requirements](Application-Requirements)
-	2. [Creating an Account](#Creating-an-Account)
-	3. [Changing Your Password](Change-Password)
+	1. [Creating an Account](#Creating-an-Account)
+	2. [Changing Your Password](#Change-Password)
 2. Accessing Kiddy-Up as a Parent
-	1. [Logging In](Logging-into-Kiddy-Up-as-a-Parent)
-	2. [Account Setup](Setting-up-Your-Kiddy-Up-Account)
-		1. [Adding Children](Adding-Children)
-		2. [Adding Rewards](Adding-Rewards)
-		3. [Adding Tasks](Adding-Tasks)
-	3. [Parent Dashboard](Parent-Dashboard)
-	4. [Manage Children](Manage-Children)
-	5. [Manage Rewards](Manage-Rewards)
-	6. [Manage Tasks](Manage-Tasks)
+	1. [Logging In](#Logging-into-Kiddy-Up-as-a-Parent)
+	2. [Account Setup](#Setting-up-Your-Kiddy-Up-Account)
+		1. [Adding Children](#Adding-Children)
+		2. [Adding Rewards](#Adding-Rewards)
+		3. [Adding Tasks](#Adding-Tasks)
+	3. [Parent Dashboard](#Parent-Dashboard)
+	4. [Manage Children](#Manage-Children)
+	5. [Manage Rewards](#Manage-Rewards)
+	6. [Manage Tasks](#Manage-Tasks)
 3. Accessing Kiddy-Up as a Child
-	1. [Logging In](Logging-into-Kiddy-Up-as-a-Child)
-	2. [Child Dashboard](Child-Dashboard)
-	3. [Tasks](Tasks)
-	4. [Rewards](Rewards)
-	6. [Configure Child Account](Child-Configuration)
+	1. [Logging In](#Logging-into-Kiddy-Up-as-a-Child)
+	2. [Child Dashboard](#Child-Dashboard)
+	3. [Tasks](#Tasks)
+	4. [Rewards](#Rewards)
+	6. [Configure Child Account](#Child-Configuration)
 
 
 
