@@ -25,6 +25,7 @@ Make
 The code can be compiled with the provided makefile using the standard make command.
 
 If compiling the code manually, or integrating into a larger program, include the following flags:
+<p>
 
 FLAGS=-std=c++11 -fsanitize=address -fuse-ld=gold -Wall -MMD
 Note that flag -fuse-ld=gold is only required on certain Ubuntu systems due to a known bug with g++ 5.x.
@@ -46,9 +47,9 @@ If run using
 
 ./leastSquares sensors-2018.12.26-no-labels.txt
 </p>
-<p> 
-<h4>output similar to</h4>
 
+<h4>Output Similar to</h4>
+<p> 
 0 <= x <= 30; y_0 = 61.0000 + 0.6333x; interpolation
 30 <= x <= 60; y_1 = 98.0000 + -0.6000x; interpolation
 60 <= x <= 90; y_2 = 20.0000 + 0.7000x; interpolation
