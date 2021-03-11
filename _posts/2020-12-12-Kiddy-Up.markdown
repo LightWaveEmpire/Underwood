@@ -13,6 +13,25 @@ To create an account, go to the Kiddy-Up website and select "Register" from the 
 
 ![Macbook]({{site.baseurl}}/assets/img/1.jpg)
 
+Enter a unique username, a valid email address, and a password in the fields provided.
+You must use a password that meets certain complexity rules
+
+Must contain 8 or more characters
+Must not be similar to the user's name or email address
+Must not be too common
+Must not be entirely numeric
+
+Press "Register".
+
+![Macbook]({{site.baseurl}}/assets/img/2.jpg)
+
+You will be sent an email to complete your registration.
+
+![Macbook]({{site.baseurl}}/assets/img/3.jpg)
+
+Clicking the registration link in the received email will finalize your accoun creation and you will be logged into Kiddy-Up as a parent.
+
+
 [GitHub][1]
 
 [1]: https://github.com/LightWaveEmpire/Kiddy-Up       "Kiddy-Up"
