@@ -45,7 +45,7 @@ Kiddy-Up repository can be acccessed at [GitHub][1].
 	6. [Configure Child Account](Child-Configuration)
 4. [Appendix](Appendix)
 
-<h3>##Creating an Account{:#Creating an Account} </h3> 
+<h3>##Creating an Account{:#Creating-an-Account} </h3> 
 
 
 To create an account, go to the Kiddy-Up website and select "Register" from the top navigation bar.
