@@ -28,12 +28,17 @@ To create an account, go to the Kiddy-Up website and select "Register" from the 
 ![Macbook]({{site.baseurl}}/assets/img/1.jpg)
 
 Enter a unique username, a valid email address, and a password in the fields provided.
+
 You must use a password that meets certain complexity rules
 
 Must contain 8 or more characters
+
 Must not be similar to the user's name or email address
+
 Must not be too common
+
 Must not be entirely numeric
+
 
 Press "Register".
 
@@ -326,13 +331,11 @@ Each child has a link to their tasks page located in their dashboard and in the 
 
 The child's task page shows the name, location, and due date of tasks to be completed. Clicking on the name of the task will show a detailed view of that task, including a description and the number of points to be awarded for completing the task.
 
-![Macbook]({{site.baseurl}}/assets/img/41.jpg)
-
 <h3>Complete a Task</h3>
 
 Clicking on the "Complete" button next to a task marks it as complete. This will remove the task from the child's tasks page and send it to the parent for validation. The Getting Checked section on the Child Dashboard will update to reflect teh task is complete.
 
-![Macbook]({{site.baseurl}}/assets/img/42.jpg)
+![Macbook]({{site.baseurl}}/assets/img/41.jpg)
 
 The task will now be visible on the parent's completed tasks display.
 
@@ -345,17 +348,17 @@ Kiddy-Up's reward system allows children to trade in the points they've earned f
 
 he My Rewards page can be accessed from the top navigation bar on all child pages. The page lists all the rewards the child has earned that have not been delivered by the parent.
 
-![Macbook]({{site.baseurl}}/assets/img/43.jpg)
+![Macbook]({{site.baseurl}}/assets/img/42.jpg)
 
 <h3>Buy Rewards</h3>
 
 The child’s Buy Reward page displays the reward(s) that they currently have enough points to purchase. The page is accessed from the child's navigation bar or from their dashboard.
 
-![Macbook]({{site.baseurl}}/assets/img/44.jpg)
+![Macbook]({{site.baseurl}}/assets/img/43.jpg)
 
 The Buy Rewards page also contains a link to the rewards that they have already bought and have not been marked by the parents as being given.
 
-![Macbook]({{site.baseurl}}/assets/img/45.jpg)
+![Macbook]({{site.baseurl}}/assets/img/44.jpg)
 
 
 <h2>Child Configuration</h2>
