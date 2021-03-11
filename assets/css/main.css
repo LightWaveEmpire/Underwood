@@ -787,6 +787,7 @@ h1 {
 .sh1{
   font-weight: 400;
   font-family: monospace, monospace;
+  margin-left: 400px;
   display: inline;
 }
 img {
