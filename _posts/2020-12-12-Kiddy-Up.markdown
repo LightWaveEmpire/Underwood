@@ -73,3 +73,43 @@ Now you can log in to Kiddy-Up using your username and new password.
 ![Macbook]({{site.baseurl}}/assets/img/8.jpg)
 
 <h2>Accessing Kiddy-Up as a Parent</h2>
+
+<h3>Logging into Kiddy Up as a Parent</h3>
+
+To login to Kiddy-Up, select "Login" from the top navigation bar.
+
+
+![Macbook]({{site.baseurl}}/assets/img/9.jpg)
+
+
+Enter your username and password and press "Login".
+
+
+![Macbook]({{site.baseurl}}/assets/img/10.jpg)
+
+
+You will be logged into Kiddy-Up as a parent and redirected to the Parent Dashboard.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
