@@ -49,16 +49,24 @@ Clicking the registration link in the received email will finalize your accoun c
 
 
 If you need to change your password, go to the login page and select the "Lost password?" link.
+<br>
+<br>
 ![Macbook]({{site.baseurl}}/assets/img/4.jpg)
-
+<br>
+<br>
 Enter your email address and press "Reset password"
+<br>
+<br>
 ![Macbook]({{site.baseurl}}/assets/img/5.jpg)
 
 You will receive an email with a link to reset your password. Click the link in the email to go to the Change Password page.
+
 ![Macbook]({{site.baseurl}}/assets/img/6.jpg)
 
 Enter your new password twice and click the "Change my password" button.
+
 ![Macbook]({{site.baseurl}}/assets/img/7.jpg)
 
 Now you can log in to Kiddy-Up using your username and new password.
+
 ![Macbook]({{site.baseurl}}/assets/img/8.jpg)
