@@ -13,7 +13,7 @@ Kiddy-Up application focuses on taking third party calander API's or utilizing t
 
 Events will then be displayed using preselected age comprehension levels to display events in age approaprate interfaces. In addition to basic interface customization, users can create impliment a rewards system for one or all sub children accounts. 
 
-The [GitHub][1] reposity can be accessed here. The following is a walkthrough of the basic use and functionality of Kiddy-Up
+Kiddy-Up repository can be acccessed at [GitHub][1]. The following is a walkthrough of the basic use and functionality of Kiddy-Up
 
 [1]: https://github.com/LightWaveEmpire/Kiddy-Up       "Kiddy-Up"
 
@@ -45,7 +45,20 @@ You will be sent an email to complete your registration.
 
 Clicking the registration link in the received email will finalize your accoun creation and you will be logged into Kiddy-Up as a parent.
 
+<h3>Change Password</h3>
 
-[GitHub][1]
 
-[1]: https://github.com/LightWaveEmpire/Kiddy-Up       "Kiddy-Up"
+If you need to change your password, go to the login page and select the "Lost password?" link.
+![Macbook]({{site.baseurl}}/assets/img/4.jpg)
+
+Enter your email address and press "Reset password"
+![Macbook]({{site.baseurl}}/assets/img/5.jpg)
+
+You will receive an email with a link to reset your password. Click the link in the email to go to the Change Password page.
+![Macbook]({{site.baseurl}}/assets/img/6.jpg)
+
+Enter your new password twice and click the "Change my password" button.
+![Macbook]({{site.baseurl}}/assets/img/7.jpg)
+
+Now you can log in to Kiddy-Up using your username and new password.
+![Macbook]({{site.baseurl}}/assets/img/8.jpg)
