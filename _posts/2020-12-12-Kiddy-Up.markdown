@@ -119,6 +119,83 @@ The parents also have the option to add a zip code to their account. Adding a zi
 You can edit the zip code should you move locations. Click on the link named “edit”  in the Zip Code section and you will be shown an update page. Enter in the new zip code, then press save.
 
 
+<h3></h3>>Adding Children</h3>
+
+To add a child, scroll to the children section of the settings page and click on add child.
+
+![Macbook]({{site.baseurl}}/assets/img/14.jpg)
+
+You will be shown an “add child” page with the following rows for a child: PIN/Image Code, child name, target reward, age, comprehension level, and point balance. Fill in the information on this page then press save to save new child.
+
+![Macbook]({{site.baseurl}}/assets/img/15.jpg)
+
+<h3>Adding Rewards</h3>
+
+To add a reward, scroll to the reward section of the settings page and click on add reward.
+
+![Macbook]({{site.baseurl}}/assets/img/16.jpg)
+
+You will be shown an “add reward” page with the following rows for a reward: Reward name and cost. Fill in the information on this page then press save to save new reward.
+
+
+![Macbook]({{site.baseurl}}/assets/img/17.jpg)
+
+
+<h3>Adding Tasks</h3>
+
+Parents have three options for adding tasks into Kiddy-Up for the tasks to be shown to the children. The parents can either link to their online calendars, add a task manually, or fill out an entry form. All three of these options can be accessed through the settings page.
+
+<h3>Automated Task Syncing</h3>
+
+To link to Google and pull your tasks and events, go to the bottom of the settings page and click on the Link Account link.
+
+![Macbook]({{site.baseurl}}/assets/img/18.jpg)
+
+
+You will be redirected to the Google Accounts login pages, asking for your google email and password. You will be asked to grant permission to Kiddy-Up to read your calendar events and tasks.
+Enter your Google accout email when prompted.
+
+![Macbook]({{site.baseurl}}/assets/img/19.jpg)
+
+Enter your Google password.
+
+
+![Macbook]({{site.baseurl}}/assets/img/20.jpg)
+
+
+You will see on the bottom of the settings page that your Google account is now linked. You can now click the Get Google Events and Tasks link to import your tasks and events from Google.
+
+![Macbook]({{site.baseurl}}/assets/img/21.jpg)
+
+<h3>Manual Task Entry</h3>
+
+The manual task entry option allows parents to enter a task written in conversational English. The task is then added to the appropriate child's dashboard. You access the manual task entry from the bottom of the settings page.
+
+![Macbook]({{site.baseurl}}/assets/img/22.jpg)
+
+
+After entering in the details of the task for the child, press Save.
+
+![Macbook]({{site.baseurl}}/assets/img/23.jpg)
+
+<h3>Add Task by Form</h3>
+
+To add a task by form, access the link at the bottom of the settings page.
+
+![Macbook]({{site.baseurl}}/assets/img/24.jpg)
+
+
+This form allows you to enter in each attribute of your child's task. After entering in the details of the task for the child, press Save.
+
+![Macbook]({{site.baseurl}}/assets/img/25.jpg)
+
+
+
+
+
+
+
+
 
 
 
