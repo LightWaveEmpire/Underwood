@@ -13,7 +13,13 @@ Kiddy-Up application focuses on taking third party calander API's or utilizing t
 
 Events will then be displayed using preselected age comprehension levels to display events in age approaprate interfaces. In addition to basic interface customization, users can create impliment a rewards system for one or all sub children accounts. 
 
-Kiddy-Up utilizes Docker, Django, and SpaCy to build and do the nessecary parsing of data. The following is a walkthrough of the basic use and functionality of Kiddy-Up
+The [GitHub][1]
+
+[1]: https://github.com/LightWaveEmpire/Kiddy-Up       "Kiddy-Up"
+
+reposity can be accessed here. The following is a walkthrough of the basic use and functionality of Kiddy-Up
+
+
 
 To create an account, go to the Kiddy-Up website and select "Register" from the top navigation bar.
 
