@@ -47,9 +47,9 @@ output similar to
 ...
 will be provided in an accompanying .txt file labeled: sensors-2018.12.26-no-labels.txt-core{#}.txt. Note that the precision estimates will vary by architecture/system.
 
-This is a guide on Markdown [Markdown][1].
+[GitHub][1].
 
-[1]: http://en.wikipedia.org/wiki/Markdown        "Markdown"
+[1]: https://github.com/LightWaveEmpire/Piecewise-Interpolation       "Piecewise-Interpolation"
 
 
 
