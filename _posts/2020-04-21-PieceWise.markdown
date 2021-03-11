@@ -15,12 +15,12 @@ tags: [C++, Piecewise Interpolation]
  Least Squares Approximation will take an input file of CPU core temperature values and perform both a linear piecewise interpolation as well as a global linear approximation. Written in C++.
 </p>
  
-<h4>Requirements</h4><br>
+<h4>Requirements</h4>
 
 g++ v5.4 or newer
 Make
 
-<h4>Compilation</h4><br> 
+<h4>Compilation</h4> 
 
 The code can be compiled with the provided makefile using the standard make command. <br>
 
@@ -43,7 +43,7 @@ Please note that the program will accept an input file that contains only intege
 
 If run using ./leastSquares sensors-2018.12.26-no-labels.txt
 
-<h4>Output Similar to</h4> <br>
+<h4>Output Similar to</h4> 
 
 0 <= x <= 30; y_0 = 61.0000 + 0.6333x; interpolation <br>
 30 <= x <= 60; y_1 = 98.0000 + -0.6000x; interpolation <br>
