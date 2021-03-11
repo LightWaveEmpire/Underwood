@@ -19,6 +19,10 @@ Kiddy-Up repository can be acccessed at [GitHub][1].
 
 [1]: https://github.com/LightWaveEmpire/Kiddy-Up       "Kiddy-Up"
 
+
+<h1> Walkthrough</h1>
+
+
 <h2>Glossery</h2>
 1. Getting Started
 	1. [Creating an Account](#Creating-an-Account)
@@ -42,8 +46,8 @@ Kiddy-Up repository can be acccessed at [GitHub][1].
 
 
 
-<h1> Walkthrough</h1>
 
+<h2>Getting Started</h2>
 
 <h3>Creating an Account <a name="Creating-an-Account"></a> </h3> 
 
