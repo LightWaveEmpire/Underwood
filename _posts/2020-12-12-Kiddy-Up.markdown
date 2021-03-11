@@ -129,7 +129,7 @@ You will be shown an “add child” page with the following rows for a child: P
 
 ![Macbook]({{site.baseurl}}/assets/img/15.jpg)
 
-<h3>Adding Rewards</h3>
+<h2>Adding Rewards</h2>
 
 To add a reward, scroll to the reward section of the settings page and click on add reward.
 
@@ -141,7 +141,7 @@ You will be shown an “add reward” page with the following rows for a reward:
 ![Macbook]({{site.baseurl}}/assets/img/17.jpg)
 
 
-<h3>Adding Tasks</h3>
+<h2>Adding Tasks</h2>
 
 Parents have three options for adding tasks into Kiddy-Up for the tasks to be shown to the children. The parents can either link to their online calendars, add a task manually, or fill out an entry form. All three of these options can be accessed through the settings page.
 
