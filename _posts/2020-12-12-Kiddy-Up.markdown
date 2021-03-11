@@ -13,9 +13,9 @@ tags: [Python, Docker, Django, SpaCy, Html]
 
 	Events will then be displayed using preselected age comprehension levels to display events in age approaprate interfaces. In addition to basic interface customization, users can create impliment a rewards system for one or all sub children accounts. 
 
-Kiddy-Up repository can be acccessed at [GitHub][1].
+	Kiddy-Up repository can be acccessed at [GitHub][1].
 
- The following is a walkthrough of the basic use and functionality of Kiddy-Up
+ 	The following is a walkthrough of the basic use and functionality of Kiddy-Up
 
 [1]: https://github.com/LightWaveEmpire/Kiddy-Up       "Kiddy-Up"
 
@@ -52,57 +52,57 @@ Kiddy-Up repository can be acccessed at [GitHub][1].
 <h3>Creating an Account <a name="Creating-an-Account"></a> </h3> 
 
 
-To create an account, go to the Kiddy-Up website and select "Register" from the top navigation bar.
+	To create an account, go to the Kiddy-Up website and select "Register" from the top navigation bar.
 
 ![Macbook]({{site.baseurl}}/assets/img/1.jpg)
 
 Enter a unique username, a valid email address, and a password in the fields provided.
 
-You must use a password that meets certain complexity rules
+	You must use a password that meets certain complexity rules:
 
-Must contain 8 or more characters
+		Must contain 8 or more characters
 
-Must not be similar to the user's name or email address
+		Must not be similar to the user's name or email address
 
-Must not be too common
+		Must not be too common
 
-Must not be entirely numeric
+		Must not be entirely numeric
 
 
-Press "Register".
+	Press "Register".
 
 ![Macbook]({{site.baseurl}}/assets/img/2.jpg)
 
-You will be sent an email to complete your registration.
+	You will be sent an email to complete your registration.
 
 ![Macbook]({{site.baseurl}}/assets/img/3.jpg)
 
-Clicking the registration link in the received email will finalize your accoun creation and you will be logged into Kiddy-Up as a parent.
+	Clicking the registration link in the received email will finalize your accoun creation and you will be logged into Kiddy-Up as a parent.
 
 <h3>Change Password <a name="Change-Password"></a> </h3>
 
 
-If you need to change your password, go to the login page and select the "Lost password?" link.
+	If you need to change your password, go to the login page and select the "Lost password?" link.
 
 
 ![Macbook]({{site.baseurl}}/assets/img/4.jpg)
 
 
-Enter your email address and press "Reset password"
+	Enter your email address and press "Reset password"
 
 
 ![Macbook]({{site.baseurl}}/assets/img/5.jpg)
 
 
-You will receive an email with a link to reset your password. Click the link in the email to go to the Change Password page.
+	You will receive an email with a link to reset your password. Click the link in the email to go to the Change Password page.
 
 ![Macbook]({{site.baseurl}}/assets/img/6.jpg)
 
-Enter your new password twice and click the "Change my password" button.
+	Enter your new password twice and click the "Change my password" button.
 
 ![Macbook]({{site.baseurl}}/assets/img/7.jpg)
 
-Now you can log in to Kiddy-Up using your username and new password.
+	Now you can log in to Kiddy-Up using your username and new password.
 
 ![Macbook]({{site.baseurl}}/assets/img/8.jpg)
 
@@ -110,42 +110,43 @@ Now you can log in to Kiddy-Up using your username and new password.
 
 <h3>Logging into Kiddy Up as a Parent <a name="Logging-into-Kiddy-Up-as-a-Parent"></a> </h3>
 
-To login to Kiddy-Up, select "Login" from the top navigation bar.
+	To login to Kiddy-Up, select "Login" from the top navigation bar.
 
 
 ![Macbook]({{site.baseurl}}/assets/img/9.jpg)
 
 
-Enter your username and password and press "Login".
+	Enter your username and password and press "Login".
 
 
 ![Macbook]({{site.baseurl}}/assets/img/10.jpg)
 
 
-You will be logged into Kiddy-Up as a parent and redirected to the Parent Dashboard.
+	You will be logged into Kiddy-Up as a parent and redirected to the Parent Dashboard.
 
 <h2>Setting up Your Kiddy Up Account  <a name="Setting-up-Your-Kiddy-Up-Account"></a> </h2>
 
 
-Kiddy-Up provides the user the ability to add and manage children and rewards within the settings page.
+	Kiddy-Up provides the user the ability to add and manage children and rewards within the settings page.
 
 <h3>Access Settings</h3>
 
 ![Macbook]({{site.baseurl}}/assets/img/11.jpg)
 
 
-To access the settings page, click your profile picture in the top-right corner. A dropdown menu will appear with a link to the settings page. When the link is pressed, you will be taken to the settings page as shown below.
+	To access the settings page, click your profile picture in the top-right corner. A dropdown menu will appear with a link to the settings page. When the link is pressed, you will be taken to the settings page as shown below.
 
 <h3>Settings Options</h3>
 
 ![Macbook]({{site.baseurl}}/assets/img/12.jpg)
 
-The settings page allows you to add and edit your Zip Code, your Children,  the Rewards, and the ability to link your Google calendar and task list for automated task import
-From this page you can add and edit children or rewards, click on the edit button next to the desired item.
+	The settings page allows you to add and edit your Zip Code, your Children,  the Rewards, and the ability to link your Google calendar and task list for automated task import
+
+	From this page you can add and edit children or rewards, click on the edit button next to the desired item.
 
 <h3>Setup Zip Code</h3>
 
-The parents also have the option to add a zip code to their account. Adding a zip code provides the parents and the children with custom weather forecasts.
+	The parents also have the option to add a zip code to their account. Adding a zip code provides the parents and the children with custom weather forecasts.
 
 ![Macbook]({{site.baseurl}}/assets/img/13.jpg)
 
