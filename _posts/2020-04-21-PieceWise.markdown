@@ -10,11 +10,11 @@ tags: [C++, Piecewise Interpolation]
 
 Least Squares Approximation C++
 
-	Least Squares Approximation will take an input file of CPU core temperature values and perform both a linear piecewise interpolation as well as a global linear approximation. Written in C++.
+    Least Squares Approximation will take an input file of CPU core temperature values and perform both a linear piecewise interpolation as well as a global linear approximation. Written in C++.
 
 Requirements
 
-	g++ v5.4 or newer Make
+    g++ v5.4 or newer Make
 
 Compilation
 
