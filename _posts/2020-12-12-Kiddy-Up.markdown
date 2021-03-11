@@ -45,7 +45,7 @@ You will be sent an email to complete your registration.
 
 Clicking the registration link in the received email will finalize your accoun creation and you will be logged into Kiddy-Up as a parent.
 
-<h2>Change Password</h2>
+<h4>Change Password</h4>
 
 
 If you need to change your password, go to the login page and select the "Lost password?" link.
@@ -71,3 +71,5 @@ Enter your new password twice and click the "Change my password" button.
 Now you can log in to Kiddy-Up using your username and new password.
 
 ![Macbook]({{site.baseurl}}/assets/img/8.jpg)
+
+<h3>Accessing Kiddy-Up as a Parent</h3>
