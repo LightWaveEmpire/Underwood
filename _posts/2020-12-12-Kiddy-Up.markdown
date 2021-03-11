@@ -25,7 +25,7 @@ Kiddy-Up repository can be acccessed at [GitHub][1].
 <h2>Appendex </h2>
 1. Getting Started
 	1. [Application Requirements](Application-Requirements)
-	2. [Creating an Account](Creating-an-Account)
+	2. [Creating an Account](#Creating-an-Account)
 	3. [Changing Your Password](Change-Password)
 2. Accessing Kiddy-Up as a Parent
 	1. [Logging In](Logging-into-Kiddy-Up-as-a-Parent)
