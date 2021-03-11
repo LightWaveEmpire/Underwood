@@ -7,10 +7,11 @@ img: Bezier-vs-piecewise-linear-interpolation-of-four-points.jpg # Add image pos
 fig-caption: # Add figcaption (optional)
 tags: [C++, Piecewise Interpolation]
 ---
+<blockquote>
 
-Least Squares Approximation C++
+<h2>Least Squares Approximation C++</h2>
 
-Least Squares Approximation will take an input file of CPU core temperature values and perform both a linear piecewise interpolation as well as a global linear approximation. Written in C++.
+<p> Least Squares Approximation will take an input file of CPU core temperature values and perform both a linear piecewise interpolation as well as a global linear approximation. Written in C++.
 
 Requirements
 
@@ -47,7 +48,8 @@ output similar to
 60 <= x <= 90; y_2 = 20.0000 + 0.7000x; interpolation
 ...
 will be provided in an accompanying .txt file labeled: sensors-2018.12.26-no-labels.txt-core{#}.txt. Note that the precision estimates will vary by architecture/system.
-
+</p>
+</blockquote>
 
 <button name="Get Code" onclick=https://www.google.com> GitHub </button>
 
