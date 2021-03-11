@@ -14,8 +14,7 @@ Least Squares Approximation will take an input file of CPU core temperature valu
 
 Requirements
 
-g++ v5.4 or newer
-Make
+****g++ v5.4 or newer Make
 
 Compilation
 
@@ -47,6 +46,7 @@ output similar to
 60 <= x <= 90; y_2 = 20.0000 + 0.7000x; interpolation
 ...
 will be provided in an accompanying .txt file labeled: sensors-2018.12.26-no-labels.txt-core{#}.txt. Note that the precision estimates will vary by architecture/system.
+
 
 <button name="button" onclick="http://www.google.com">Click me</button>
 
