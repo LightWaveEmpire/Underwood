@@ -10,9 +10,8 @@ tags: [Python, Docker, Django, SpaCy, Html]
 Kiddy-Up is an application that assists parents in building and managing the child's routine by collecting pertinent scheduling information from multiple online sources and presenting the information to each child at a grade-appropriate level. 
 
 To create an account, go to the Kiddy-Up website and select "Register" from the top navigation bar.
-![alt text](assets/img/1.png "")
 
-![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
+![Macbook]({{site.baseurl}}/assets/img/1.jpg)
 
 [GitHub][1]
 
