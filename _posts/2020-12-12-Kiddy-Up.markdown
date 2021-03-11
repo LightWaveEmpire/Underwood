@@ -13,11 +13,11 @@ Kiddy-Up application focuses on taking third party calander API's or utilizing t
 
 Events will then be displayed using preselected age comprehension levels to display events in age approaprate interfaces. In addition to basic interface customization, users can create impliment a rewards system for one or all sub children accounts. 
 
-The [GitHub][1]
+The [GitHub][1] reposity can be accessed here. The following is a walkthrough of the basic use and functionality of Kiddy-Up
 
 [1]: https://github.com/LightWaveEmpire/Kiddy-Up       "Kiddy-Up"
 
-reposity can be accessed here. The following is a walkthrough of the basic use and functionality of Kiddy-Up
+
 
 
 
