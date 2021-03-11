@@ -76,7 +76,7 @@ You will be sent an email to complete your registration.
 
 Clicking the registration link in the received email will finalize your accoun creation and you will be logged into Kiddy-Up as a parent.
 
-<h3>Change Password</h3>
+<h3>Change Password <a name="Change-Password"></a> </h3>
 
 
 If you need to change your password, go to the login page and select the "Lost password?" link.
@@ -103,9 +103,9 @@ Now you can log in to Kiddy-Up using your username and new password.
 
 ![Macbook]({{site.baseurl}}/assets/img/8.jpg)
 
-<h2>Accessing Kiddy-Up as a Parent</h2>
+<h2>Accessing Kiddy-Up as a Parent </h2>
 
-<h3>Logging into Kiddy Up as a Parent</h3>
+<h3>Logging into Kiddy Up as a Parent <a name="Logging-into-Kiddy-Up-as-a-Parent"></a> </h3>
 
 To login to Kiddy-Up, select "Login" from the top navigation bar.
 
@@ -121,7 +121,7 @@ Enter your username and password and press "Login".
 
 You will be logged into Kiddy-Up as a parent and redirected to the Parent Dashboard.
 
-<h2>Setting up Your Kiddy Up Account</h2>
+<h2>Setting up Your Kiddy Up Account  <a name="Setting-up-Your-Kiddy-Up-Account"></a> </h2>
 
 
 Kiddy-Up provides the user the ability to add and manage children and rewards within the settings page.
@@ -150,7 +150,7 @@ The parents also have the option to add a zip code to their account. Adding a zi
 You can edit the zip code should you move locations. Click on the link named “edit”  in the Zip Code section and you will be shown an update page. Enter in the new zip code, then press save.
 
 
-<h2>Adding Children</h2>
+<h2>Adding Children <a name="Adding-Children"></a> </h2>
 
 To add a child, scroll to the children section of the settings page and click on add child.
 
@@ -160,7 +160,7 @@ You will be shown an “add child” page with the following rows for a child: P
 
 ![Macbook]({{site.baseurl}}/assets/img/15.jpg)
 
-<h2>Adding Rewards</h2>
+<h2>Adding Rewards <a name="Adding-Rewards"></a> </h2>
 
 To add a reward, scroll to the reward section of the settings page and click on add reward.
 
@@ -172,7 +172,7 @@ You will be shown an “add reward” page with the following rows for a reward:
 ![Macbook]({{site.baseurl}}/assets/img/17.jpg)
 
 
-<h2>Adding Tasks</h2>
+<h2>Adding Tasks <a name="Adding-Tasks"></a></h2>
 
 Parents have three options for adding tasks into Kiddy-Up for the tasks to be shown to the children. The parents can either link to their online calendars, add a task manually, or fill out an entry form. All three of these options can be accessed through the settings page.
 
@@ -220,7 +220,7 @@ This form allows you to enter in each attribute of your child's task. After ente
 
 ![Macbook]({{site.baseurl}}/assets/img/25.jpg)
 
-<h2>Parent Dashboard</h2>
+<h2>Parent Dashboard <a name="Parent-Dashboard"></a></h2>
 
 The Dashboard page provides an overview of assigned and completed tasks and the children's earned rewards.
 
@@ -233,7 +233,7 @@ The parents dashboard contains a list of tasks that have been marked as complete
 Once you have issues a reward to the child, click on the "Give Reward" button to remove it from the list.
 
 
-<h2>Manage Children</h2>
+<h2>Manage Children <a name="Manage-Children"></a></h2>
 
 To view and manage your children, click on the "Children" link in the top navigation bar.
 
@@ -251,7 +251,7 @@ Here you can set the child's name, PIN/Image Code, target reward, age, comprehen
 
 Press the "Save" button to finalize any changes on the page.
 
-<h2>Manage Rewards</h2>
+<h2>Manage Rewards <a name="Manage-Rewards"></a></h2>
 
 To view and manage your children's potential rewards, click on the "Rewards" link in the top navigation bar.
 
@@ -275,7 +275,7 @@ The Earned Rewards page allows parents to review the rewards that have been earn
 
 ![Macbook]({{site.baseurl}}/assets/img/31.jpg)
 
-<h2>Manage Tasks</h2>
+<h2>Manage Tasks <a name="Manage-Tasks"></a></h2>
 
 To view and manage your children's tasks, click on the "Tasks" link in the top navigation bar.
 
@@ -303,7 +303,7 @@ Click "Mark as Complete" to validate the task as complete and award the child th
 
 <h2>Accessing Kiddy-Up as a Child</h2>
 
-<h3>Logging into Kiddy Up as a Child</h3>
+<h3>Logging into Kiddy Up as a Child <a name="Logging-into-Kiddy-Up-as-a-Child"></a></h3>
 
 On the child login page, you will be prompted to select your avatar from the ones displayed.
 
@@ -319,7 +319,7 @@ To return the child’s login screens well being logged into a child account. Se
 
 ![Macbook]({{site.baseurl}}/assets/img/37.jpg)
 
-<h2>Child Dashboard</h2>
+<h2>Child Dashboard <a name="Child-Dashboard"></a></h2>
 
 In the Child’s Dashboard you will be presented with the following sections:
 1. Tasks
@@ -345,7 +345,7 @@ The Getting Checked section summarizes the tasks that are pending parent validat
 
 ![Macbook]({{site.baseurl}}/assets/img/38.jpg)
 
-<h2>Tasks</h2>
+<h2>Tasks <a name="Tasks"></a></h2>
 
 <h3>My Tasks</h3>
 
@@ -366,7 +366,7 @@ Clicking on the "Complete" button next to a task marks it as complete. This will
 The task will now be visible on the parent's completed tasks display.
 
 
-<h2>Rewards</h2>
+<h2>Rewards <a name="Rewards"></a></h2>
 
 Kiddy-Up's reward system allows children to trade in the points they've earned for rewards that their parent sets up. Each child can see the rewards they've earned from their dashboard. The dashboard also has a progress bar, located in the upper right corner, that displays their progress towards a reward created by the parents as well as a link to a reward that they have earned and can purchase.
 
@@ -387,7 +387,7 @@ The Buy Rewards page also contains a link to the rewards that they have already 
 ![Macbook]({{site.baseurl}}/assets/img/44.jpg)
 
 
-<h2>Child Configuration</h2>
+<h2>Child Configuration <a name="Child-Configuratio"></a></h2>
 
 To modify the child's settings, select the profile avatar in the top left, and choose "Settings" from the drop-down menu.
 
