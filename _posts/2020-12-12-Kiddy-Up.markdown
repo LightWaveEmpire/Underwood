@@ -95,21 +95,21 @@ You will be logged into Kiddy-Up as a parent and redirected to the Parent Dashbo
 
 Kiddy-Up provides the user the ability to add and manage children and rewards within the settings page.
 
-<h4>Access Settings</h4>
+<h3>Access Settings</h3>
 
 ![Macbook]({{site.baseurl}}/assets/img/11.jpg)
 
 
 To access the settings page, click your profile picture in the top-right corner. A dropdown menu will appear with a link to the settings page. When the link is pressed, you will be taken to the settings page as shown below.
 
-<h4>Settings Options</h4>
+<h3>Settings Options</h3>
 
 ![Macbook]({{site.baseurl}}/assets/img/12.jpg)
 
 The settings page allows you to add and edit your Zip Code, your Children,  the Rewards, and the ability to link your Google calendar and task list for automated task import
 From this page you can add and edit children or rewards, click on the edit button next to the desired item.
 
-<h4>Setup Zip Code</h4>
+<h3>Setup Zip Code</h3>
 
 The parents also have the option to add a zip code to their account. Adding a zip code provides the parents and the children with custom weather forecasts.
 
