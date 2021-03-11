@@ -90,7 +90,7 @@ Enter your username and password and press "Login".
 
 You will be logged into Kiddy-Up as a parent and redirected to the Parent Dashboard.
 
-<h3>Setting up Your Kiddy Up Account</h3>
+<h2>Setting up Your Kiddy Up Account</h2>
 
 
 Kiddy-Up provides the user the ability to add and manage children and rewards within the settings page.
@@ -119,7 +119,7 @@ The parents also have the option to add a zip code to their account. Adding a zi
 You can edit the zip code should you move locations. Click on the link named “edit”  in the Zip Code section and you will be shown an update page. Enter in the new zip code, then press save.
 
 
-<h3></h3>>Adding Children</h3>
+<h2>Adding Children</h2>
 
 To add a child, scroll to the children section of the settings page and click on add child.
 
