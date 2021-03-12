@@ -11,7 +11,17 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Samuel Underwood # add your name
 author-img: Samuel_Underwood.jpg # add your photo
-about-author: I am a Junoir Software Developer, with a bachlor's degree in Computer Science from Old Dominion University. I have experience with but not limited too # add description
+about-author: I am a Junoir Software Developer, with a bachlor's degree in Computer Science from Old Dominion University. I have experience with but not limited too
+C++
+CSS
+Django
+Docker
+Git
+HTML
+Java
+MySQL
+Python
+ # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: LightWaveEmpire # add your Github handle
