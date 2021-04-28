@@ -13,10 +13,11 @@ author: Samuel Underwood # add your name
 author-img: Samuel_Underwood.jpg # add your photo
 about-author: I am a Software Developer with a Bachlor's degree in Computer Science from Old Dominion University. I am experienced with C++, CSS, Django, Docker, Git, HTML, Java, MySQL, Python, CSS, SpaCy, AWS, Dynamodb. # add description
 social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+social-facebook: href="![Macbook]({{site.baseurl}}/assets/Samuel-Underwood_Resume.pdf)"
 social-github: LightWaveEmpire # add your Github handle
 social-linkedin: samuel-underwood-307086202 # add your Linkedin handle
 social-email: Samuel.Underwood95@gmail.com # add your Email address
+
 
 # Disqus
 discus-identifier: # add your discus identifier
