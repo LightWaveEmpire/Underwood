@@ -442,11 +442,6 @@ template {
 
 .highlighter-rouge {
  
-  font-weight: 400;
-  
-  -webkit-border-radius: 3px;
-          border-radius: 3px;
-  padding: 0.1rem 0.5rem;
 }
 
 .highlight .hll {
