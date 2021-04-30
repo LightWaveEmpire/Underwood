@@ -777,10 +777,7 @@ h1 {
   font-weight: 400;
 }
 .sh1{
-  font-weight: 400;
-  font-family: monospace, monospace;
-  text-align: 1000px;
-  display: inline;
+
 }
 img {
   max-width: 100%;
