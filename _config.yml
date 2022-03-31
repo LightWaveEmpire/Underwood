@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Samuel Underwood # add your name
 author-img: Samuel_Underwood.jpg # add your photo
-about-author: I am a Software Developer with a Bachlor's degree in Computer Science from Old Dominion University. I am experienced with C++, CSS, Django, Docker, Git, HTML, Java, MySQL, Python, CSS, SpaCy, AWS, Dynamodb. # add description
+about-author: I am a Software Developer with a Bachlor's degree in Computer Science from Old Dominion University. I am experienced with C++, CSS, Django, Docker, Git, HTML, Java, MySQL, Python, CSS, SpaCy, AWS, Dynamodb, React, Ruby. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: LightWaveEmpire # add your Github handle
